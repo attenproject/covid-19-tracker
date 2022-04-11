@@ -16,7 +16,12 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React 
+<<<<<<< HEAD
           1234567
+=======
+          1234
+          Mookkk
+>>>>>>> a87afefff2fa19c78ff84bfcd30b7b7f2d65666d
         </a>
       </header>
     </div>
